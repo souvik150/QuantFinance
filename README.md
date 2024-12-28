@@ -2,8 +2,8 @@
 
 Covered so far :-
 
-Time Value of Money
-Bond Pricing
-Markovitz Model
-Capital Asset Pricing Model
-Normal Distribution of Returns
+- Time Value of Money
+- Bond Pricing
+- Markovitz Model
+- Capital Asset Pricing Model
+- Normal Distribution of Returns
