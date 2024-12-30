@@ -7,3 +7,5 @@ Covered so far :-
 - Markovitz Model
 - Capital Asset Pricing Model
 - Normal Distribution of Returns
+- Wiener Generator
+- Geometric Brownian Motion
